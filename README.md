@@ -55,6 +55,10 @@ Currently specialising in Reactjs and Kotlin.
     <td>Kotlin</td>
     <td>█████</td>
   </tr>
+    <tr>
+    <td>Arch (CachyOS)</td>
+    <td>████</td>
+  </tr>
 </table>
 
 ## My Other Content
