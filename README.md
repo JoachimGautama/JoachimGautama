@@ -1,4 +1,4 @@
-# Hi there I am Joachim Gautama👋
+# Hi there I am Joachim👋
 Let me give you a quick introduction:
 <ul>
 <li>
