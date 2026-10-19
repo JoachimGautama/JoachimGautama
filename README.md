@@ -45,6 +45,10 @@ Currently specialising in Reactjs and Kotlin.
     <td>TypeScript</td>
     <td>██████</td>
   </tr>
+    <tr>
+    <td>Figma</td>
+    <td>██████</td>
+  </tr>
   <tr>
     <td>Kotlin</td>
     <td>█████</td>
@@ -55,4 +59,7 @@ Currently specialising in Reactjs and Kotlin.
 
 <a href="https://github.com/jg-exe" target="_blank" title="Personal GitHub">
 <img src="https://img.shields.io/badge/personal_GitHub:_jg--exe-violet?logo=github" alt="Personal GitHub pill"/>
+</a>
+<a href="https://www.linkedin.com/in/joachimgautama/" target="_blank" title="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn:-blue_Joachim_Gautama?logo=linkedin" alt="LinkedIn pill"/>
 </a>
