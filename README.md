@@ -61,5 +61,5 @@ Currently specialising in Reactjs and Kotlin.
 <img src="https://img.shields.io/badge/personal_GitHub:_jg--exe-violet?logo=github" alt="Personal GitHub pill"/>
 </a>
 <a href="https://www.linkedin.com/in/joachimgautama/" target="_blank" title="LinkedIn">
-<img src="https://img.shields.io/badge/LinkedIn:-blue_Joachim_Gautama?logo=linkedin" alt="LinkedIn pill"/>
+<img src="https://img.shields.io/badge/LinkedIn:-Joachim_Gautama-blue" alt="LinkedIn pill"/>
 </a>
