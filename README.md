@@ -55,7 +55,7 @@ Currently specialising in Reactjs and Kotlin.
   </tr>
 </table>
 
-## My Projects and Other Content
+## My Other Content
 
 <a href="https://github.com/jg-exe" target="_blank" title="Personal GitHub">
 <img src="https://img.shields.io/badge/personal_GitHub:-jg--exe-violet?logo=github" alt="Personal GitHub pill"/>
