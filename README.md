@@ -60,6 +60,9 @@ Currently specialising in Reactjs and Kotlin.
 <a href="https://github.com/jg-exe" target="_blank" title="Personal GitHub">
 <img src="https://img.shields.io/badge/Personal_GitHub:-jg--exe-violet?logo=github" alt="Personal GitHub pill"/>
 </a>
+<a href="https://codepen.io/JG-exe" target="_blank" title="CodePen">
+<img src="https://img.shields.io/badge/CodePen:-Joachim_Gautama-purple" alt="CodePen pill"/>
+</a>
 <a href="https://www.linkedin.com/in/joachimgautama/" target="_blank" title="LinkedIn">
 <img src="https://img.shields.io/badge/LinkedIn:-Joachim_Gautama-blue" alt="LinkedIn pill"/>
 </a>
