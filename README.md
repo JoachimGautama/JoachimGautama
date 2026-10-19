@@ -1,5 +1,7 @@
 # Hi there I am Joachim👋
-Let me give you a quick introduction:
+*Developer · Linux enthousiast · Gamer*
+
+Allow me to give you a quick introduction:
 <ul>
 <li>
   I am a fullstack dev student
